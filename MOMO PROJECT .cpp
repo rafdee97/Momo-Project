@@ -14,7 +14,7 @@ void intro(float bal, string pin);
 
 void authentication(float bal ,string pin ){
 	
-	cout<<"Enter momo pin to approve withrawal of GHC : 200 from UEB32100000  VENTURES "<<endl;
+	cout<<"Enter momo pin to approve withrawal of GHC : 200 from RAFIA   VENTURES "<<endl;
 	 
 	 string a ;
 	 cin>>a;
